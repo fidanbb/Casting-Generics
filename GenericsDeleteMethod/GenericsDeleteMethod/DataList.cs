@@ -41,6 +41,7 @@ namespace GenericsDeleteMethod
 			T data = GetById(id);
 			data.IsDeleted = true;
 
+
 			return data.IsDeleted;
 
 		}

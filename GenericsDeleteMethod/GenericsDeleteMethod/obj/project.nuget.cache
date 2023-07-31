@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Ximtu8D7qf+yOwTy+cSKuQlp+s2ZVdPjK3oUKSbV2twrx1p+VmFhj5+wEFkjGkLBSGac6mMBi8U1mG16tJt5bg==",
+  "dgSpecHash": "+4GDXhnWnufBI03KWU4vo8wSE1uko7r0GqwELdx4Elhi4Yj0isLFnii3q3BKORw/+2CURW9ZCrQZN/xEBXeqng==",
   "success": true,
-  "projectFilePath": "/Users/thatisphii/Desktop/c#Homeworks/CastingGenererics/GenericsDeleteMethod/GenericsDeleteMethod/GenericsDeleteMethod.csproj",
+  "projectFilePath": "/Users/thatisphii/Desktop/c#Homeworks/CastingGenerics/GenericsDeleteMethod/GenericsDeleteMethod/GenericsDeleteMethod.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

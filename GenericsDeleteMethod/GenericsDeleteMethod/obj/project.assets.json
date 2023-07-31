@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/thatisphii/Desktop/c#Homeworks/CastingGenererics/GenericsDeleteMethod/GenericsDeleteMethod/GenericsDeleteMethod.csproj",
+      "projectUniqueName": "/Users/thatisphii/Desktop/c#Homeworks/CastingGenerics/GenericsDeleteMethod/GenericsDeleteMethod/GenericsDeleteMethod.csproj",
       "projectName": "GenericsDeleteMethod",
-      "projectPath": "/Users/thatisphii/Desktop/c#Homeworks/CastingGenererics/GenericsDeleteMethod/GenericsDeleteMethod/GenericsDeleteMethod.csproj",
+      "projectPath": "/Users/thatisphii/Desktop/c#Homeworks/CastingGenerics/GenericsDeleteMethod/GenericsDeleteMethod/GenericsDeleteMethod.csproj",
       "packagesPath": "/Users/thatisphii/.nuget/packages/",
-      "outputPath": "/Users/thatisphii/Desktop/c#Homeworks/CastingGenererics/GenericsDeleteMethod/GenericsDeleteMethod/obj/",
+      "outputPath": "/Users/thatisphii/Desktop/c#Homeworks/CastingGenerics/GenericsDeleteMethod/GenericsDeleteMethod/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/thatisphii/.nuget/NuGet/NuGet.Config"
