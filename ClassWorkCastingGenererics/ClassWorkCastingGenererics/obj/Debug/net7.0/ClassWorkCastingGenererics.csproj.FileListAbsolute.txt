@@ -1,0 +1,15 @@
+/Users/thatisphii/Desktop/c#Homeworks/CastingGenererics/ClassWorkCastingGenererics/ClassWorkCastingGenererics/bin/Debug/net7.0/ClassWorkCastingGenererics
+/Users/thatisphii/Desktop/c#Homeworks/CastingGenererics/ClassWorkCastingGenererics/ClassWorkCastingGenererics/bin/Debug/net7.0/ClassWorkCastingGenererics.deps.json
+/Users/thatisphii/Desktop/c#Homeworks/CastingGenererics/ClassWorkCastingGenererics/ClassWorkCastingGenererics/bin/Debug/net7.0/ClassWorkCastingGenererics.runtimeconfig.json
+/Users/thatisphii/Desktop/c#Homeworks/CastingGenererics/ClassWorkCastingGenererics/ClassWorkCastingGenererics/bin/Debug/net7.0/ClassWorkCastingGenererics.dll
+/Users/thatisphii/Desktop/c#Homeworks/CastingGenererics/ClassWorkCastingGenererics/ClassWorkCastingGenererics/bin/Debug/net7.0/ClassWorkCastingGenererics.pdb
+/Users/thatisphii/Desktop/c#Homeworks/CastingGenererics/ClassWorkCastingGenererics/ClassWorkCastingGenererics/obj/Debug/net7.0/ClassWorkCastingGenererics.csproj.AssemblyReference.cache
+/Users/thatisphii/Desktop/c#Homeworks/CastingGenererics/ClassWorkCastingGenererics/ClassWorkCastingGenererics/obj/Debug/net7.0/ClassWorkCastingGenererics.GeneratedMSBuildEditorConfig.editorconfig
+/Users/thatisphii/Desktop/c#Homeworks/CastingGenererics/ClassWorkCastingGenererics/ClassWorkCastingGenererics/obj/Debug/net7.0/ClassWorkCastingGenererics.AssemblyInfoInputs.cache
+/Users/thatisphii/Desktop/c#Homeworks/CastingGenererics/ClassWorkCastingGenererics/ClassWorkCastingGenererics/obj/Debug/net7.0/ClassWorkCastingGenererics.AssemblyInfo.cs
+/Users/thatisphii/Desktop/c#Homeworks/CastingGenererics/ClassWorkCastingGenererics/ClassWorkCastingGenererics/obj/Debug/net7.0/ClassWorkCastingGenererics.csproj.CoreCompileInputs.cache
+/Users/thatisphii/Desktop/c#Homeworks/CastingGenererics/ClassWorkCastingGenererics/ClassWorkCastingGenererics/obj/Debug/net7.0/ClassWorkCastingGenererics.dll
+/Users/thatisphii/Desktop/c#Homeworks/CastingGenererics/ClassWorkCastingGenererics/ClassWorkCastingGenererics/obj/Debug/net7.0/refint/ClassWorkCastingGenererics.dll
+/Users/thatisphii/Desktop/c#Homeworks/CastingGenererics/ClassWorkCastingGenererics/ClassWorkCastingGenererics/obj/Debug/net7.0/ClassWorkCastingGenererics.pdb
+/Users/thatisphii/Desktop/c#Homeworks/CastingGenererics/ClassWorkCastingGenererics/ClassWorkCastingGenererics/obj/Debug/net7.0/ClassWorkCastingGenererics.genruntimeconfig.cache
+/Users/thatisphii/Desktop/c#Homeworks/CastingGenererics/ClassWorkCastingGenererics/ClassWorkCastingGenererics/obj/Debug/net7.0/ref/ClassWorkCastingGenererics.dll

@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{00BE9C44-2C07-4E5E-9679-DB0BB4CBA27C}|Default">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.GenericsDeleteMethod PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="GenericsDeleteMethod/Program.cs">
+    <Files>
+      <File FileName="GenericsDeleteMethod/Program.cs" Line="24" Column="2" />
+      <File FileName="GenericsDeleteMethod/BaseEntity.cs" Line="7" Column="44" />
+      <File FileName="GenericsDeleteMethod/Employee.cs" Line="4" Column="34" />
+      <File FileName="GenericsDeleteMethod/DataList.cs" Line="26" Column="4" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="GenericsDeleteMethod" expanded="True">
+            <Node name="GenericsDeleteMethod" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>

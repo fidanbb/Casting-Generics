@@ -1,0 +1,33 @@
+﻿<Properties StartupConfiguration="{A2EE34D7-47B3-41A9-AE24-FE138A0CA8A3}|Default">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.ClassWorkCastingGenererics PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ClassWorkCastingGenererics/Program.cs">
+    <Files>
+      <File FileName="ClassWorkCastingGenererics/Program.cs" Line="190" Column="34" />
+      <File FileName="ClassWorkCastingGenererics/Animal.cs" Line="6" Column="21" />
+      <File FileName="ClassWorkCastingGenererics/Fish.cs" Line="4" Column="26" />
+      <File FileName="ClassWorkCastingGenererics/Bird.cs" Line="4" Column="26" />
+      <File FileName="ClassWorkCastingGenererics/Book.cs" Line="12" Column="3" />
+      <File FileName="ClassWorkCastingGenererics/IntList.cs" Line="23" Column="4" />
+      <File FileName="ClassWorkCastingGenererics/StringList.cs" Line="10" Column="49" />
+      <File FileName="ClassWorkCastingGenererics/DataList.cs" Line="36" Column="25" />
+      <File FileName="ClassWorkCastingGenererics/Repository.cs" Line="9" Column="1" />
+      <File FileName="ClassWorkCastingGenererics/BaseEntity.cs" Line="6" Column="30" />
+      <File FileName="ClassWorkCastingGenererics/IBook.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ClassWorkCastingGenererics" expanded="True">
+            <Node name="ClassWorkCastingGenererics" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>
